@@ -1,6 +1,6 @@
-# Github pages setup for [OpenWriter](https://github.com/OpenWorkspaceHub/OpenWriter)
+# Github pages setup for [VisualEngine](https://github.com/OpenWorkspaceHub/VisualEngine)
 
-This repository contains the Github pages setup for the [OpenWriter](https://github.com/OpenWorkspaceHub/OpenWriter) product page.
+This repository contains the Github pages setup for the [VisualEnginw](https://github.com/OpenWorkspaceHub/VisualEngine) product page.
 
 `(c) 2023 Dimitar Dimitrov`
 
